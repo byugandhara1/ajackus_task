@@ -1,4 +1,2 @@
 # ajackus_task
-
-
-welloelldo dfdkk
+Django and django rest framework all api details
